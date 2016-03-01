@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./priscillianiqva01schegoog/priscillianiqva01schegoog_0161.png"; bbox 0 0 2812 4634; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 469 1168 855 1722">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 469 1168 855 1722">
+     <span class='ocr_line' id='line_1_1' title="bbox 618 1168 700 1276; baseline -0.012 0"><span class='ocrx_word' id='word_1_1' title='bbox 618 1168 700 1276; x_wconf 89' lang='lat' dir='ltr'><strong>H.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 469 1605 855 1722; baseline 0.013 -4"><span class='ocrx_word' id='word_1_2' title='bbox 469 1605 855 1722; x_wconf 79' lang='lat' dir='ltr'>PRlSGlLLIANl</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 108 2015 1214 2120">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 108 2015 1214 2120">
+     <span class='ocr_line' id='line_1_3' title="bbox 108 2015 1214 2120; baseline 0.005 -6"><span class='ocrx_word' id='word_1_3' title='bbox 108 2015 315 2115; x_wconf 82' lang='lat' dir='ltr'><strong>PAVLI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 372 2016 749 2119; x_wconf 77' lang='lat' dir='ltr'>APOSTOLI</span> <span class='ocrx_word' id='word_1_5' title='bbox 801 2015 1214 2120; x_wconf 80' lang='lat' dir='ltr'><strong>EPISTVLAS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 429 2358 896 2492">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 429 2358 896 2492">
+     <span class='ocr_line' id='line_1_4' title="bbox 429 2358 896 2492; baseline -0.002 0"><span class='ocrx_word' id='word_1_6' title='bbox 429 2358 896 2492; x_wconf 82' lang='lat' dir='ltr'><strong>CANONES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 265 2783 1054 2889">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 265 2783 1054 2889">
+     <span class='ocr_line' id='line_1_5' title="bbox 265 2783 1054 2889; baseline 0.003 -2"><span class='ocrx_word' id='word_1_7' title='bbox 265 2784 667 2889; x_wconf 79' lang='lat' dir='ltr'>PEREGRINO</span> <span class='ocrx_word' id='word_1_8' title='bbox 717 2783 1054 2889; x_wconf 82' lang='lat' dir='ltr'><strong>EPISOOPO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1410 4634">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1410 4634">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1410 4634; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1410 4634; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
